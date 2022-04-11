@@ -1,5 +1,13 @@
-* For this assignment, me and Deepa Mahesh pair programmed. 
+An Implementation of all four of the following techniques with an animated playing-card sorter:
 
-Writing the code for all the different sort methods allowed me to better understand how they work, and the benefits of each one. I found the insertion sort most intuative to work on, and the quick sort the most interesting one to visualize. Using recursion still takes a bit more thinking for me to fully wrap my head around. This assignment felt easier than the last one, and I was able to move through the stages faster. 
+Insertion Sort
+Selection Sort
+Merge Sort
+Quicksort
 
-Collaborating with Deepa Mahesh was a helpful experience. Having someone to bounce ideas off as soon as they popped into my head was extremely helpful. Splitting up the work with someone was one of the reasons I was able to move through the assignment so fast. Deepa was a great partner too! She was flexible and willing to do help with anything I was struggling with.  
+
+Times each of the following using the unix-based system. You can call it on each type like so:
+
+> time java MergeSortTimer 10000
+
+(The timer versions of each sort type don't include the graphics for optimal speed)
